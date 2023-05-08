@@ -3,4 +3,11 @@ I control speed of DC motor using STM32 microcontroller and L293 H-bridge.
 Drawing response of signal processing by reading encoder in GUI, that is coded by C# in Visual Studio.
 
 ## IMAGES FOR PROJECT
-![realistic](images/picture1.png)
+ <img src="Picture1.png"/>
+Image realistic
+ <img src="Picture2.png"/>
+Image connection diagrams
+ <img src="Picture3.png"/>
+Image GUI C#
+
+## Result
