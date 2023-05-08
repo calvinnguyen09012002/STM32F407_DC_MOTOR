@@ -11,3 +11,11 @@ Image connection diagrams
 Image GUI C#
 
 ## Result
+ <img src="Respond.png"/>
+ Set point 150rpm and -150rpm
+ <img src="Led.png"/>
+ 4 LED
+  <img src="Emergencybutton.png"/>
+ Emergency button
+ <img src="Handshake.png"/>
+ Hand Shake
